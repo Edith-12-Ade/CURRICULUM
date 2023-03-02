@@ -1,0 +1,102 @@
+body{
+    padding: 0;
+    margin-top: 0;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.topC{
+    color: white;
+    height: 250px;
+    text-align: left;
+    font-size: 25px;
+    background-color: rgb(95, 158, 160);
+    padding: 20px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+    text-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+}
+
+.topC img{
+    margin-right: 20px;
+    float: left;
+}
+
+#textB{
+    color: white;
+    width: 1200px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 0;
+    margin-top: 50px;
+    background-color: rgb(95, 158, 160);
+    float: left;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+    text-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+}
+
+#prof{
+    border-bottom: 1px solid white;
+}
+
+#exp{
+    border-bottom: 1px solid white;
+}
+
+#nvle{
+    border-bottom: 1px solid white;
+}
+
+#hbb{
+    border-bottom: 1px solid white;
+}
+
+#infor{
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 270px;
+    background-color: black;
+    color:white;
+    margin-top: 50px;
+    float: right;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+}
+
+#pr{
+    border-bottom: 1px solid white;
+}
+
+/**
+* Clases y id para paginas secundarias
+**/
+.Top{
+    color: white;
+    height: 100px;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(95, 158, 160);
+    padding: 20px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+    text-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+}
+
+.parraf{
+    color: white;
+    width: auto;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 0;
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(95, 158, 160);
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, .2);  
+    text-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
+}
+
+.imgsSec{
+    float:left;
+    margin-left: 50px;
+}
